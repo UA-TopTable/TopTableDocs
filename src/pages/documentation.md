@@ -38,4 +38,4 @@ To deploy the documentation, run the following command:
 npm run build
 npm run deploy
 ```
-To test, open your browser and go to `https://domain.github.io/tableTop/`.
+To test, open your browser and go to `https://ua-toptable.github.io/TopTableDocs/`.

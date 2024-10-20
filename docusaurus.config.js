@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/logo.svg',
 
   // Set the production url of your site here
-  url: '', // L'URL de ton site GitHub Pages
+  url: 'https://UA-TopTable.github.io/', // L'URL de ton site GitHub Pages
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/TopTableDocs/', // Assure-toi de remplacer par le nom exact de ton dépôt GitHub
