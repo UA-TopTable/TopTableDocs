@@ -35,6 +35,7 @@ Then open your browser and go to `http://localhost:3000`.
 To deploy the documentation, run the following command:
 
 ```bash
+export USE_SSH=true
 npm run build
 npm run deploy
 ```
