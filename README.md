@@ -1,41 +1,34 @@
-# Website
+# TopTable Documentation
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+## Prerequisites
 
-```
-$ yarn
-```
+Before starting, ensure you have the following installed:
+- [Node.js](https://nodejs.org/)
 
-### Local Development
+## 1. Installation
 
-```
-$ yarn start
-```
+Install dependencies:
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+```bash
+npm install
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## 2. Local Test
 
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+```bash
+npm run start
 ```
 
-Not using SSH:
+Open your browser and go to `http://localhost:3000`.
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+## 3. Deployment
+
+```bash
+export USE_SSH=true
+npm run build
+npm run deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+To test, open your browser and go to `https://ua-toptable.github.io/TopTableDocs/`.
