@@ -10,6 +10,7 @@ title: Documentation
   - [Tests](#tests)
     - [Local test](#local-test)
     - [Deployment test](#deployment-test)
+    - [Expected result](#expected-result)
 
 
 The project documentation is created using [Docusaurus](https://docusaurus.io/), hosted on GitHub Pages.
@@ -40,3 +41,7 @@ npm run build
 npm run deploy
 ```
 To test, open your browser and go to `https://ua-toptable.github.io/TopTableDocs/`.
+
+### Expected result
+
+The documentation index page should be displayed correctly in the browser.

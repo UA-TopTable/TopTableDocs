@@ -23,7 +23,7 @@ title: Home
 21/10/2024
 
 **Scrum master**  
-TBD
+Bruno Páscoa
 
 **Product owner**  
-TBD
+İlker Atik
