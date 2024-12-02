@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UA-TopTable.github.io/TopTableDocs/blog</id>
-    <title>Table Top Blog</title>
+    <title>Top Table Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://UA-TopTable.github.io/TopTableDocs/blog"/>
-    <subtitle>Table Top Blog</subtitle>
-    <icon>https://UA-TopTable.github.io/TopTableDocs/img/logo.svg</icon>
+    <subtitle>Top Table Blog</subtitle>
+    <icon>https://UA-TopTable.github.io/TopTableDocs/img/logo.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://UA-TopTable.github.io/TopTableDocs/blog/welcome</id>
