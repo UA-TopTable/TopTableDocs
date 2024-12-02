@@ -2,9 +2,9 @@
 title: Home
 ---
 
-# Welcome to TableTop documentation
+# Welcome to TopTable documentation
 
-This is the documentation for TableTop, a web application for booking tables at restaurants.
+This is the documentation for TopTable, a web application for booking tables at restaurants.
 
 ## Project members
 - İlker Atik 

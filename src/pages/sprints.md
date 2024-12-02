@@ -55,3 +55,22 @@ Robin Lafage
 | All tasks and user stories were completed on time.          | The UI is better comparing to previous sprint but customer side should improved to have better UX.                       | Have a comprehensive plan for UI expectations and designs.                            |
 | Users stories were merged and tested successfully.          |  S3 Service for images is causing some problems due to the need for role or access token for uploading images. In the Learner lab there is a limitation on role/user creation. | Find a solution for uploading images within Learner Lab limitations or search for alternatives |
 | The team communicated effectively and worked well together. | User stories for next sprint should be ready before the sprint review.      |  Populate the backlog while doing the sprint retro or review
+
+## Sprint 4
+
+### Sprint review
+02/12/2024
+
+### Scrum master
+Valentin Renier
+
+### Product owner
+Bruno Páscoa
+
+### Sprint retrospective
+
+| What went well                                              | What could have gone better                                                 | Action items                                                    |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| All tasks and user stories were completed on time.          | The UI can still be improved, for both customers and restaurant owners                     | Have a comprehensive plan for UI expectations and designs.                            |
+| Most of the major functionalities are implemented.          | There is actually no part of the website dedicated to admins in order to manage the restaurants and the various accounts.  | Make an user pool and some pages dedicated for moderation and managing the website. |
+| The team communicated effectively and worked well together. | User stories for next sprint should be ready before the sprint review.      |  Populate the backlog while doing the sprint retro or review.

@@ -14,7 +14,7 @@ title: Home
 | List of acceptation tests                                   | Documented                |
 | No blocking tasks to start working on it                    |                           |
 
-## Buisness model canvas
+## Business model canvas
 ![Business Model Canvas](/img/canva.jpeg)
 
 ## Sprint 1

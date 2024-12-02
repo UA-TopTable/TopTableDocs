@@ -8,9 +8,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Table Top',
+  title: 'Top Table',
   tagline: 'A quick and easy way to book a table at a restaurant',
-  favicon: 'img/logo.svg',
+  favicon: 'img/logo.png',
 
   // Set the production url of your site here
   url: 'https://UA-TopTable.github.io/', // L'URL de ton site GitHub Pages
@@ -59,10 +59,10 @@ const config = {
     ({
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Table Top',
+        title: 'Top Table',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
       },
       footer: {
