@@ -17,6 +17,14 @@ title: Home
 ## Business model canvas
 ![Business Model Canvas](/img/canva.jpeg)
 
+## Architecture diagram
+
+![Architecture diagram](/img/architecture_diagram.jpg)
+
+## Database diagram
+
+![Database diagram](/img/database_diagram.png)
+
 ## Sprint 1
 
 **Sprint review**  
