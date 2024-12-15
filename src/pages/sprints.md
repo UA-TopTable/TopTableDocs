@@ -72,5 +72,25 @@ Bruno Páscoa
 | What went well                                              | What could have gone better                                                 | Action items                                                    |
 | ----------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | All tasks and user stories were completed on time.          | The UI can still be improved, for both customers and restaurant owners                     | Have a comprehensive plan for UI expectations and designs.                            |
-| Most of the major functionalities are implemented.          | There is actually no part of the website dedicated to admins in order to manage the restaurants and the various accounts.  | Make an user pool and some pages dedicated for moderation and managing the website. |
+| Most of the major functionalities are implemented.          | There is actually no part of the website dedicated to admins in order to manage the restaurants and the various accounts.  | Decide if there is a necessity to include an admin part to the website before the end of the project. |
 | The team communicated effectively and worked well together. | User stories for next sprint should be ready before the sprint review.      |  Populate the backlog while doing the sprint retro or review.
+
+
+## Sprint 5
+
+### Sprint review
+16/12/2024
+
+### Scrum master
+Valentin Renier
+
+### Product owner
+Bruno Páscoa
+
+### Sprint retrospective
+
+| What went well                                              | What could have gone better                                                 | Action items                                                    |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| All tasks and user stories were completed on time.          | The User Stories have mostly been finished on the last day of the sprint. | Start doing the User Stories earlier, so if any problem occurs we can fix it more easily by taking our time.                            |
+| Most of the major functionalities are implemented.          | The UI still need to be improved in staff side.  | Apply the same UI in staff side as the one in customer side. |
+| The team communicated effectively and worked well together. | The sprint has been started too late due to some incomprehensions in the team roles, delaying the start of the various User Stories.    |  Make sure before the sprint review, and the sprint planning, what will be the next role of each member of the team in the sprint.
