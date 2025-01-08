@@ -19,7 +19,7 @@ title: Home
 
 ## Architecture diagram
 
-![Architecture diagram](/img/architecture_diagram.jpg)
+![Architecture diagram](/img/architecture_diagram.png)
 
 ## Database diagram
 
