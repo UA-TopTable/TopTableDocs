@@ -24,14 +24,3 @@ title: Home
 ## Database diagram
 
 ![Database diagram](/img/database_diagram.png)
-
-## Sprint 1
-
-**Sprint review**  
-21/10/2024
-
-**Scrum master**  
-Bruno Páscoa
-
-**Product owner**  
-İlker Atik
