@@ -15,8 +15,6 @@ Bruno Páscoa
 ### Product owner  
 İlker Atik
 
-### Sprint retrospective
-TBD
 
 ## Sprint 2
 
