@@ -31,4 +31,12 @@ npm run build
 npm run deploy
 ```
 
+If it says you are unauthorized to push, do : 
+```bash
+export USE_SSH=false
+export GIT_USER=*your_username*
+npm run build
+npm run deploy
+```
+
 To test, open your browser and go to `https://ua-toptable.github.io/TopTableDocs/`.
